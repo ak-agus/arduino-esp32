@@ -646,6 +646,9 @@ esp32.menu.PartitionScheme.app3M_fat9M_16MB.upload.maximum_size=3145728
 esp32.menu.PartitionScheme.rainmaker=RainMaker
 esp32.menu.PartitionScheme.rainmaker.build.partitions=rainmaker
 esp32.menu.PartitionScheme.rainmaker.upload.maximum_size=3145728
+esp32.menu.PartitionScheme.large_spiffs=Large SPIFFS (4.5MB APP/OTA/6.93MB SPIFFS)
+esp32.menu.PartitionScheme.large_spiffs.build.partitions=large_spiffs_16MB
+esp32.menu.PartitionScheme.large_spiffs.upload.maximum_size=4718592
 
 esp32.menu.CPUFreq.240=240MHz (WiFi/BT)
 esp32.menu.CPUFreq.240.build.f_cpu=240000000L
